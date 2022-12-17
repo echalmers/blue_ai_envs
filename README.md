@@ -1,6 +1,6 @@
 # Custom minigrid environments
 
-Author: Jesse Viehweger (jvieh721@mtroyal.ca)
+Authors: Jesse Viehweger, Emily Allerdings 
 
 this repository extends minigrid with the following environments:
 
